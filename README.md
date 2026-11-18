@@ -7,9 +7,9 @@
   </picture>
 </a>
 
-I’m a **Cloud Engineer** specializing in Microsoft Azure. I build integrations that help support engineers reconstruct case histories in Salesforce and help operations teams route document approvals in Microsoft 365.
+I’m a **Cloud Engineer** specializing in enterprise architecture, integration, and applied AI on Microsoft Azure. I work with business and engineering leaders to prioritize modernization and make the cost and risk of architectural decisions clear. I carry those decisions through delivery alongside the teams responsible for security, reliability, and operations.
 
-**[Explore the projects in 3D →](https://ronybanol-portfolio.vercel.app/#projects)** · [Browse my public repositories](https://github.com/Rony-San?tab=repositories) · [Email me](mailto:ronysantiagoba@gmail.com)
+**[Explore the projects in 3D →](https://ronybanol-portfolio.vercel.app/#projects)** · [LinkedIn](https://www.linkedin.com/in/rony-santiago/) · [Browse my public repositories](https://github.com/Rony-San?tab=repositories) · [Email me](mailto:ronysantiagoba@gmail.com)
 
 ## Selected projects
 

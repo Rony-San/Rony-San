@@ -3,11 +3,11 @@
     <source media="(max-width: 600px) and (prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/Rony-San/Rony-San/main/assets/signal-mobile.gif">
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Rony-San/Rony-San/main/assets/signal-mobile-still.png">
     <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/Rony-San/Rony-San/main/assets/signal.gif">
-    <img src="./assets/signal-still.png" width="1200" alt="Rony Bañol · Full-stack engineer · AI and cloud engineering. Open the project portfolio.">
+    <img src="./assets/signal-still.png" width="1200" alt="Rony Bañol · Cloud Engineer · Secure Azure integrations. Open the project portfolio.">
   </picture>
 </a>
 
-I’m a systems engineer and full-stack developer. I build voice agents, visual workflow editors, and integrations that connect Salesforce to services on Microsoft Azure.
+I’m a **Cloud Engineer** specializing in Microsoft Azure. I build integrations that help support engineers reconstruct case histories in Salesforce and help operations teams route document approvals in Microsoft 365.
 
 **[Explore the projects in 3D →](https://ronybanol-portfolio.vercel.app/#projects)** · [Browse my public repositories](https://github.com/Rony-San?tab=repositories) · [Email me](mailto:ronysantiagoba@gmail.com)
 
@@ -101,7 +101,7 @@ A participant accepts an invitation, checks out through Stripe, and follows a co
 
 ## Tools and collaboration
 
-I work with **TypeScript, React, Next.js, Python, FastAPI, PostgreSQL, and Azure**. I’m currently learning **Bicep and Terraform**, and I’m open to collaborating on full-stack web development and resilient cloud architecture.
+I use **Azure Container Apps, Python, FastAPI, and PostgreSQL** to run services and **TypeScript, React, and Next.js** to build their interfaces. I’m learning **Bicep and Terraform** and welcome collaboration on cloud infrastructure and enterprise integrations.
 
 <details>
   <summary>More of my toolkit</summary>

@@ -15,19 +15,33 @@ I’m a systems engineer and full-stack developer. I build voice agents, visual 
 
 ### Huddle Horizon
 
-<p>
-  <a href="https://ronybanol-portfolio.vercel.app/projects/huddle-horizon/"><img align="right" src="./assets/huddle-horizon.png" width="124" alt="Explore Huddle Horizon"></a>
-  A guest joins a voice-agent room. The session API saves the captions in Azure Blob Storage and uses Azure OpenAI to generate feedback.<br>
-  <a href="https://ronybanol-portfolio.vercel.app/projects/huddle-horizon/">Trace a voice session →</a>
-</p>
+[![A wave of voice data alongside Next.js, FastAPI, Cloudflare Turnstile, Azure Blob Storage, Azure OpenAI, and Stripe.](./assets/cards/huddle-horizon.png)](https://ronybanol-portfolio.vercel.app/projects/huddle-horizon/)
+
+A guest joins a voice room through a shared link. The session API stores the captions in Azure Blob Storage, then uses Azure OpenAI to generate feedback. [Trace a voice session →](https://ronybanol-portfolio.vercel.app/projects/huddle-horizon/)
 
 ### Agentic Platform Trust
 
-<p>
-  <a href="https://ronybanol-portfolio.vercel.app/projects/agentic-platform-trust/"><img align="right" src="./assets/agentic-platform-trust.png" width="124" alt="Explore Agentic Platform Trust"></a>
-  A builder describes a task in plain language, edits the proposed flow in a Next.js canvas, and publishes it. FastAPI coordinates generation and stores the flow in PostgreSQL.<br>
-  <a href="https://ronybanol-portfolio.vercel.app/projects/agentic-platform-trust/">Follow a brief through the builder →</a>
-</p>
+[![Layered workflow artwork alongside Next.js, FastAPI, Azure OpenAI, Azure Database for PostgreSQL, Azure Blob Storage, and Azure AI Document Intelligence.](./assets/cards/agentic-platform-trust.png)](https://ronybanol-portfolio.vercel.app/projects/agentic-platform-trust/)
+
+A builder describes a task, edits the proposed flow in a Next.js canvas, and publishes it. FastAPI coordinates generation and saves the flow in PostgreSQL. [Follow a brief through the builder →](https://ronybanol-portfolio.vercel.app/projects/agentic-platform-trust/)
+
+### FSM Agent
+
+[![An interview waveform alongside Next.js, FastAPI, Azure AI Speech, and Azure OpenAI.](./assets/cards/fsm-agent.png)](https://ronybanol-portfolio.vercel.app/projects/fsm-agent/)
+
+A participant answers by voice or text. A state machine uses the answer to choose the next interview question. [Follow an interview turn →](https://ronybanol-portfolio.vercel.app/projects/fsm-agent/)
+
+### Trustie
+
+[![An intertwined wireframe alongside React, FastAPI, Microsoft Entra ID, Azure OpenAI, Azure AI Document Intelligence, and Power Automate.](./assets/cards/trustie.png)](https://ronybanol-portfolio.vercel.app/projects/trustie/)
+
+A signed-in user asks an assistant about a reference document, reviews a proposed action, and confirms it before an approval workflow starts. [Trace an approval request →](https://ronybanol-portfolio.vercel.app/projects/trustie/)
+
+### WPV
+
+[![Layered shield artwork alongside Power Apps, SharePoint, and Power Automate.](./assets/cards/wpv.png)](https://ronybanol-portfolio.vercel.app/projects/wpv/)
+
+A reporter can dictate a workplace incident in Power Apps, review the details, and save the report to SharePoint. [See how a report is recorded →](https://ronybanol-portfolio.vercel.app/projects/wpv/)
 
 ## Public code
 
